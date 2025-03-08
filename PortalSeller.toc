@@ -1,0 +1,6 @@
+## Interface: 20501
+## Title: PortalSeller
+## Notes: Notes about MyAddon
+## Version: 1.0
+
+PortalSeller.lua
